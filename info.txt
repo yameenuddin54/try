@@ -5,4 +5,8 @@ Pizza
 Burger
 Noodles
 Pasta
+Puffs
+Pasteries
+Rolls
+Cookies
 
